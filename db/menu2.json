@@ -1,5 +1,5 @@
 {"categories":
   {
-    "Judaa": {"url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/juda.json", "fanart": "https://i.ytimg.com/vi/p7STOw8wX6w/maxresdefault.jpg", "thumb": "https://i.ytimg.com/vi/p7STOw8wX6w/maxresdefault.jpg"}
+    "Judaa": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/juda.json", "fanart": "https://i.ytimg.com/vi/p7STOw8wX6w/maxresdefault.jpg", "thumb": "https://i.ytimg.com/vi/p7STOw8wX6w/maxresdefault.jpg"}
   }
 }
