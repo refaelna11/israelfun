@@ -1,7 +1,7 @@
 {"categories":
   {
     "Movies dubbed (Hebrew) - סרטים מדובבים לילדים": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/hebsub.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/kids.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/kids.thumb.2.png"},
-    "Israeli serials": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/israeli-serials.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.thumb.png"},
+    "Israeli serials 2": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/israeli-serials.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.thumb.png"},
     "סרטים עם תרגום מובנה - Movies with Subtitles": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/engsub.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.thumb.png"}
   }
 }
