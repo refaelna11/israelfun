@@ -2,6 +2,7 @@
   {
     "סרטים מדובבים לילדים": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/hebsub.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/kids.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/kids.thumb.2.png"},
     "סדרות ישראליות": {"action":"cat", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/israeli-serials.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.thumb.png"},
+    "סרטים ישראליים": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/israeli-movies.json", "fanart": "https://raw.githubusercontent.com/israelfun/israelfun/master/images/2016_israeli_films.jpg", "thumb": "https://raw.githubusercontent.com/israelfun/israelfun/master/images/israelimoviesicon.png"},
     "סרטים עם תרגום מובנה - Movies with Subtitles": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/engsub.json", "fanart": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.fanart.jpg", "thumb": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/resources/Movies.with.Subtitles.thumb.png"}
   }
 }
