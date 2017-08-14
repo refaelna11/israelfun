@@ -1,5 +1,5 @@
 {"categories":
   {
-    "עונה 1 - Season 1": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/Game.of.Thrones.s01.json", "fanart": "https://image.tmdb.org/t/p/original//gX8SYlnL9ZznfZwEH4KJUePBFUM.jpg", "thumb": "https://image.tmdb.org/t/p/original//zwaj4egrhnXOBIit1tyb4Sbt3KP.jpg"}
+    "עונה 1 -- Season 1": {"action":"listing", "url": "https://raw.githubusercontent.com/israelfun/israelfun/master/db/Game.of.Thrones.s01.json", "fanart": "https://image.tmdb.org/t/p/original//gX8SYlnL9ZznfZwEH4KJUePBFUM.jpg", "thumb": "https://image.tmdb.org/t/p/original//zwaj4egrhnXOBIit1tyb4Sbt3KP.jpg"}
   }
 }
